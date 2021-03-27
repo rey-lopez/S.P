@@ -10,4 +10,4 @@ Create a stickman that battles through waves of oppenents using multiple attack 
 ## Implementation
 Unity 2D with C# scripts
 
-## [S.P. Project Page Link](https://github.com/rey-lopez/S.P/blob/main/index.md)
+## [S.P. Project Page Link](docs/index.md)
