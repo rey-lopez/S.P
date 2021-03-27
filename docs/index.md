@@ -1,6 +1,6 @@
 # Sword Hero
 
-## [Problem Statement](docs/problem.md)
+## [Problem Statement](problem.md)
 
 ## [User Stories](https://github.com/rey-lopez/S.P/blob/main/docs/userstories.md)
 
