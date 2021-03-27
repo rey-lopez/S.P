@@ -4,7 +4,7 @@
 
 ### 1.1 Purpose of Product
 
-#### The purpose of the project is to create a 2d game in unity called Sword Hero. The game will involve a stick figure with a sword that battles through a constant wave of enemies. The sword hero will have 3 different attack styles which include
+>The purpose of the project is to create a 2d game in unity called Sword Hero. The game will involve a stick figure with a sword that battles through a constant wave of enemies. The sword hero will have 3 different attack styles which include
 slash, stab, and spin as well as a defense move block. There will be 4 different kinds of monsters that attack the hero in a wave each with its own weakness. 
 
 ### 1.2 Scope of Product
