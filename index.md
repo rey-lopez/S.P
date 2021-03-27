@@ -1,13 +1,13 @@
 # Sword Hero
 
-## Problem Statement
+## [Problem Statement](https://github.com/rey-lopez/S.P/blob/main/problem.md)
 
-## User Stories
+## [User Stories](https://github.com/rey-lopez/S.P/blob/main/userstories.md)
 
-## Requirements
+## [Requirements](https://github.com/rey-lopez/S.P/blob/main/requirements.md)
 
-## Architecture
+## [Architecture](https://github.com/rey-lopez/S.P/blob/main/architecture.md)
 
-## Design Document
+## [Design Document](https://github.com/rey-lopez/S.P/blob/main/design.md)
 
-## Test Report
+## [Test Report](https://github.com/rey-lopez/S.P/blob/main/testreport.md)
