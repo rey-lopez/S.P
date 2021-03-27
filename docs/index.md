@@ -2,7 +2,7 @@
 
 ## [Problem Statement](problem.md)
 
-## [User Stories]userstories.md)
+## [User Stories](userstories.md)
 
 ## [Requirements](requirements.md)
 
