@@ -82,3 +82,4 @@ The hero will begin with a health of 2. The monsters spawned will be completely 
 ## 5. Appendices
 
 > Include external documents that describe domain or constraints or any necessary information. Use URL links if possible.
+remote_theme: jekyll-theme-hacker
