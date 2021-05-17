@@ -5,7 +5,7 @@ using UnityEngine;
 public class Enemyfollow : MonoBehaviour
 {
 
-    public float speed;
+    public static float speed = 1;
 
     private Transform target;
 

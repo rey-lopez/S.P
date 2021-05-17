@@ -394,7 +394,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.25, y: -4.14, z: 0}
   m_LocalScale: {x: 0.77274853, y: 0.77274853, z: 0.77274853}
-  m_Children: []
+  m_Children:
+  - {fileID: 780779007}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -457,6 +458,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f13b4f8df419f0a42974a69106e91d9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startTimeBtwAttack: 0.1
+  attackPos: {fileID: 780779007}
+  whatIsEnemies:
+    serializedVersion: 2
+    m_Bits: 256
+  attackRange: 0.55
+  damage: 1
 --- !u!1 &414471281
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,6 +691,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &780779006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 780779007}
+  m_Layer: 0
+  m_Name: AttackPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &780779007
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780779006}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.32, y: -0.29, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 303988708}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &796775932
 GameObject:
@@ -1025,12 +1063,12 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -269.4817, y: 57.435463}
-  - {x: -267.92673, y: -147.87271}
+  - {x: -253.87932, y: 57.435463}
+  - {x: -253.52457, y: -145.47362}
   - {x: 52.256935, y: -150.44687}
-  - {x: 269.17972, y: -149.79361}
-  - {x: 271.46057, y: -67.23898}
-  - {x: 269.48465, y: 135.72575}
+  - {x: 252.37718, y: -148.59406}
+  - {x: 254.65802, y: -67.23898}
+  - {x: 253.88225, y: 133.32664}
 --- !u!1 &1493126456
 GameObject:
   m_ObjectHideFlags: 0
@@ -1071,7 +1109,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1889291521}
   - component: {fileID: 1889291520}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: EnemySpawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}

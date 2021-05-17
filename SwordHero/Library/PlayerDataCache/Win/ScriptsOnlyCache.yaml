@@ -2,9 +2,10 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Char2dcontroller
+    - Enemy
     - Enemyfollow
     - MainMenu
-    - PlayerCombat
+    - PlayerAttack
     - SpawnControl
     - quitgame
     - scoreScript
@@ -87,6 +88,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15912}
     - Class: 114
       Script: {instanceID: 16350}
+    - Class: 114
+      Script: {instanceID: 18028}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -361,7 +364,7 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
-      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Enemyfollow
@@ -697,16 +700,28 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: 0359ded1a879193b4a089ae3af876d6e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: PlayerCombat
+    className: PlayerAttack
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: quitgame
+  - hash:
+      serializedVersion: 2
+      Hash: c7a1cfbcd815f35b6700d8538ef4094e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Enemy
+  - hash:
+      serializedVersion: 2
+      Hash: 0359ded1a879193b4a089ae3af876d6e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerCombat
   platform: 5
   scenePathNames:
   - Assets/Scenes/main menu.unity
