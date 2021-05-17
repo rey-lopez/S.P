@@ -25,7 +25,7 @@ Acceptance Test: I'm hoping for a game that is reliable and can test my reflex a
 
 
 ## Teacher
--**As a teacher**_ teaching a Unity 2d basics class I am looking for a simple game that I can use as a visual for my students to see what they can make with Unity. 
+_**As a teacher**_ teaching a Unity 2d basics class I am looking for a simple game that I can use as a visual for my students to see what they can make with Unity. 
 
 Elaboration: Being a teacher having a visual of a game that I can physically show to my students would be very helpful in explaining the different mechanics.
 
@@ -37,7 +37,7 @@ Acceptance test: I'm hoping for a simplistic 2d game which implements different 
 
 
 ## College Student
--**As a full-time college student**_ working a part-time job i don't always have a lot of time to spare. I'm hoping that with this game i'll be able to play during my breaks as a way to relax and enjoy my freetime. 
+_**As a full-time college student**_ working a part-time job i don't always have a lot of time to spare. I'm hoping that with this game i'll be able to play during my breaks as a way to relax and enjoy my freetime. 
 
 Elaboration: I really enjoy playing games that can get competitive although lately between school and working extra hours I don't a whole lot of spare time to enjoy those games. I'm hoping that this game will be short and enjoyable so I can play whenever I have any spare time. 
 
@@ -49,7 +49,7 @@ Acceptance test: I'm hoping for a simple game that I can play and enjoy that doe
 
 
 ## Group leader
--**As a group leader/organizer**_ I am always on the lookout for new games for our group to play/host. I would like a game that members of our group can easily access and play. Having a game with simple controls and mechanics that anyone can understand would allow for current and new players to join our club. 
+_**As a group leader/organizer**_ I am always on the lookout for new games for our group to play/host. I would like a game that members of our group can easily access and play. Having a game with simple controls and mechanics that anyone can understand would allow for current and new players to join our club. 
 
 Elaboration: As a group we enjoy playing games of all different genre. Having a simple game that anyone can have access to and play easily allows us to gain new memers through hosting tournaments that are friendly for all to enjoy. With a gmae that can be easily accessed and played allows for current members/newbies to play and enjoy no matter where they may be located.
 
@@ -61,7 +61,7 @@ Acceptance test: Be able to play a reliable game with simple game mechanics that
 
 
 ## Casual player
--**As a casual game player**_ I want a game that is relatively easy to learn and understand so that I can easily jump in and play without having to do extensive research and spend to much time tryint to figure out how to play the game. 
+_**As a casual game player**_ I want a game that is relatively easy to learn and understand so that I can easily jump in and play without having to do extensive research and spend to much time tryint to figure out how to play the game. 
 
 Elaboration: Though I do enjoy different games I dont' consider myself as a veteran player and so having a game with simple mechanics would be ideal for players of my caliber. Allowing everyone to enjoy the game.
 
