@@ -55,7 +55,7 @@ Elaboration: As a group we enjoy playing games of all different genre. Having a 
 
 Constraints: 
 
-Effort Estimation: 
+Effort Estimation: 5 hours
 
 Acceptance test: Be able to play a reliable game with simple game mechanics that can be used to implement tournaments for everyone in our organization to play. Some sort of scoring method within the game to allow a screenshot that can be taken for tournament purposes. A game that is fair for everyone playing without having biased towards any one individual. 
 
@@ -67,6 +67,6 @@ Elaboration: Though I do enjoy different games I dont' consider myself as a vete
 
 Constraints: 
 
-Effort Estimation: 
+Effort Estimation: 2 hours
 
 Acceptance test: Be able to start a game and near effortlessely understand how the game is played allowing for it to be played by anyone. 
